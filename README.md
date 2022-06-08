@@ -1,6 +1,13 @@
 &nbsp;Hello, world! 👋
 
-My name is Emin, and I'm a Bosnian developer. I do Java, Python and Web, mostly backend but sometimes frontend. I love FOSS :)
+My name is Emin, and I'm a software developer from Bosnia.
+I'm interested in backend dev and I've done these:
+- Java
+- Python
+- C/C++
+- Discord bots (JDA)
+- Minecraft modding (Bukkit plugins, contributions to Purpur(https://github.com/PurpurMC/Purpur)
+
 
 My stats:
 
