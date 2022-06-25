@@ -1,12 +1,13 @@
 &nbsp;Hello, world! 👋
 
 My name is Emin, and I'm a software developer from Bosnia.
-I'm interested in backend dev and I've done these:
+I'm interested in backend development and I've done these:
 - Java
 - Python
 - C/C++
 - Discord bots (JDA)
-- Minecraft modding (Bukkit plugins, contributions to Purpur(https://github.com/PurpurMC/Purpur)
+- Minecraft modding ([Purpur](https://github.com/PurpurMC/Purpur) contrib, Bukkit plugins, Forge and Fabric mods)
+- Web Development (but I suck at it lmao)
 
 
 My stats:
@@ -40,4 +41,10 @@ Software I use:
 </a>
 <a href=https://www.jetbrains.com/webstorm>
 <img src=https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png width=50px height=50px>
+</a>
+<a href=https://www.jetbrains.com/clion>
+<img src=https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png width=50px height=50px>
+</a>
+<a href=https://www.jetbrains.com/phpstorm>
+<img src=https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png width=50px height=50px>
 </a>
